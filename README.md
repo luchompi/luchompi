@@ -1,6 +1,6 @@
 - 👋 Hola, Soy @luchompi
 - 👀 Estoy interesado en el desarrollo de software y desarrollo web 
-- 🌱 Estoy estudiando Django y Vuejs, git y Docker. Aparte de Linux
+- 🌱 Estoy estudiando Django, Vuejs, react, git y Docker. Aparte de Linux
 - 💞️ Quiero colaborar en cualquier proyecto/empresa que quisiere mis conocimientos para aprender mucho más sobre este mundo
 - 📫 Puedes contactarme al email lpichong@misena.edu.co  lpichon63@gmail.com
 
